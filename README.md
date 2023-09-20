@@ -11,8 +11,9 @@ Monolithic Application with MySQL.
 ### Database
 ```text
 - Created Database Questions with tables questiontb, quiz and quiz_questions.
-- ![image](https://github.com/pranjalisingh1201/QuizMonolithicApplication/assets/75729195/f107d935-f479-4b58-aee9-4a566bdce5b6)
 ```
+- ![image](https://github.com/pranjalisingh1201/QuizMonolithicApplication/assets/75729195/f107d935-f479-4b58-aee9-4a566bdce5b6)
+
 
 ### Application
 - Created a question controller to get all questions from the database.
