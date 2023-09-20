@@ -16,6 +16,9 @@ Monolithic Application with MySQL.
 ## ERR  Diagram
 ![image](https://github.com/pranjalisingh1201/QuizMonolithicApplication/assets/75729195/3311a1a0-7931-4ae9-83f5-dbc82a3fdbc9)
 
+## Database Dumps and SQL Scripts
+-  Added Collection in the repository : https://github.com/pranjalisingh1201/QuizMonolithicApplication/blob/main/TestingAndDatabaseDumps.
+
 ### Application
 - Created a question controller to get all questions from the database.
 - With the help of Rest Controller to make this file a controller, Getmapping is used to map the function to the all-questions endpoint and request mapping for mapping the request path question to dispatcher.
@@ -37,4 +40,4 @@ Monolithic Application with MySQL.
 - Server Error Responses (500-599)
 
 ## Testing With Postman Collection
-- Added Collection in the repository.
+- Added Collection in the repository : https://github.com/pranjalisingh1201/QuizMonolithicApplication/blob/main/TestingAndDatabaseDumps/QUIZ%20APP.postman_collection.json.
